@@ -21,7 +21,7 @@ Information about the project / System Requirements / Testnet Phases / Install G
 
 - [X] [Twitter](https://x.com/UnityNodes) - Our thoughts on the latest news from the projects we follow.
 
-- [ ] [Explorer](https://explorer.unitynodes.com/) - Up-to-date information on networks where our team actively participates 
+- [X] [Explorer](https://explorer.unitynodes.com/) - Up-to-date information on networks where our team actively participates 
 
 - [ ] [Governance bot]() - soon
 
