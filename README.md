@@ -10,7 +10,7 @@ We are committed to the decentralized future of digital innovation.
 
 - [X] [Website](https://unitynodes.com/) - our official website
 
-- [X] [service.unitynodes.com](https://services.unitynodes.com/) - Service for many projects cosmos ecosystem and beyond:
+- [X] [services.unitynodes.com](https://services.unitynodes.com/) - Service for many projects cosmos ecosystem and beyond:
 Information about the project / System Requirements / Testnet Phases / Install Guide / Upgrade / Snapshots / RPC / and more.
 
 - [X] [UnityApp](https://services.unitynodes.com/useful-resources/unityapp) - A convenient user interface for the projects we're involved in, along with various server management capabilities, assures you - it can be very useful for you, every day we improve its functionality.
