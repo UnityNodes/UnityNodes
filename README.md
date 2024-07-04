@@ -23,7 +23,9 @@ Information about the project / System Requirements / Testnet Phases / Install G
 
 - [X] [Explorer](https://explorer.unitynodes.com/) - Up-to-date information on networks where our team actively participates 
 
-- [ ] [Governance bot]() - soon
+- [X] [Governance bot](https://t.me/governance_unity_bot) - bot with notifications about proposals in networks of your choice
+
+- [X] [Node Status bot]() - On our service, in the subdivision of a certain project, you can find the necessary bot with notifications about the work of the validator
 
 # Infrastructure ⚙
 
