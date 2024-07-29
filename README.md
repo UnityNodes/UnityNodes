@@ -41,6 +41,10 @@ Our servers are configured with the highest level of security and are also monit
 ### Cosmos Network🌌
 1. **[Nibiru Chain](https://services.unitynodes.com/mainnet-network/nibiru)** **|** **[link to our validator](https://nibiru.explorers.guru/validator/nibivaloper1lj35gvkzg5fzf0acazlw2wdmhhg99mgawzvazl)** **|** **[link to service](https://services.unitynodes.com/mainnet-network/nibiru)**
 - Stake with us - [Link](https://restake.app/nibiru/nibivaloper1lj35gvkzg5fzf0acazlw2wdmhhg99mgawzvazl)
+2. **[Seda Chain](https://www.seda.xyz/)** **|** **[link to our validator](https://seda.explorers.guru/validator/sedavaloper128eaala77czl9zpeymlr7e6m6pdv9dfq2hx59p)** **|** **[link to service](https://services.unitynodes.com/mainnet-network/seda)**
+- Stake with us - [Link](https://restake.app/seda/sedavaloper128eaala77czl9zpeymlr7e6m6pdv9dfq2hx59p)
+3. **[Self Chain](https://selfchain.xyz/)** **|** **[link to our validator](https://explorer.selfchain.xyz/selfchain/staking/selfvaloper1kepx00qv30qeey6wcfm0qvuwxgwjnuqlrtj0qc)** **|** **[link to service](https://services.unitynodes.com/mainnet-network/selfchain)**
+- Stake with us - [Link](https://explorer.selfchain.xyz/selfchain/staking/selfvaloper1kepx00qv30qeey6wcfm0qvuwxgwjnuqlrtj0qc)
 
 ### Other projects
 1. **[Pion Network](https://services.unitynodes.com/copy-of-mainnet-network/pion-network)** **|** **[link to service](https://services.unitynodes.com/copy-of-mainnet-network/pion-network)** **|**
@@ -53,14 +57,12 @@ Our servers are configured with the highest level of security and are also monit
 4. **[Initia](https://services.unitynodes.com/testnet-network/initia)** **|** **[link to our validator](https://scan.testnet.initia.xyz/initiation-1/validators/initvaloper1uc4ytdfyfzmljmk7cz2wcewrhj5dnfm653enp5)** **|** **[link to service](https://services.unitynodes.com/testnet-network/initia)** **|**
 5. **[0G Labs](https://services.unitynodes.com/testnet-network/0g-labs)** **|** **[link to our validator](https://explorer.nodestake.org/warden-testnet/staking/wardenvaloper127x4q6ee6jn9n4pr0au385nprdp2spuh6f4yde)** **|** **[link to service](https://services.unitynodes.com/testnet-network/0g-labs)** **|**
 6. **[Mantra Chain](https://services.unitynodes.com/testnet-network/mantra-chain)** **|** **[link to our validator](https://testnet.mantra.explorers.guru/validator/mantravaloper1fh9axzp7jk9h9ljp92plwly78jpudurgzupz7v)** **|** **[link to service](https://services.unitynodes.com/testnet-network/mantra-chain)** **|**
-7. **[SelfChain](https://services.unitynodes.com/testnet-network/selfchain)** **|** **[link to service](https://services.unitynodes.com/testnet-network/selfchain)** **|**
 
 ### Other testnet projects
 1. **[NuLink](https://services.unitynodes.com/other-project/nulink)** **|** **[link to service](https://services.unitynodes.com/other-project/nulink)** **|**
-2. **[Shardeum](https://services.unitynodes.com/other-project/shardeum)** **|** **[link to service](https://services.unitynodes.com/other-project/shardeum)** **|**
-3. **[Over Protocol](https://services.unitynodes.com/other-project/over-protocol)** **|** **[link to service](https://services.unitynodes.com/other-project/over-protocol)** **|**
-4. **[Holograph](https://services.unitynodes.com/other-project/holograph)** **|** **[link to service](https://services.unitynodes.com/other-project/holograph)** **|**
-5. **[Fleek Network]()** **|** **[link to service]()** **|**
+2. **[Nubit](https://www.nubit.org/)** **|** **[link to service](https://services.unitynodes.com/other-projects/nubit)** **|**
+3. **[Voi Network](https://www.voi.network/)** **|** **[link to service](https://services.unitynodes.com/other-projects/voi-network)** **|**
+
 
 ### Archive projects 🗃️
 -  Cosmos Network
